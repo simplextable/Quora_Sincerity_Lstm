@@ -1,0 +1,4 @@
+we try to repeat one lstm pytorch glove example.
+
+code: https://www.analyticsvidhya.com/blog/2020/01/first-text-classification-in-pytorch/
+data: https://drive.google.com/file/d/1fcip8PgsrX7m4AFgvUPLaac5pZ79mpwX/view
